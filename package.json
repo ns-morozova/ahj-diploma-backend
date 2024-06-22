@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "ahj-diploma-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ns-morozova/backend.git"
+    "url": "git+ssh://git@github.com/ns-morozova/ahj-diploma-backend.git"
   },
   "author": "Natasha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ns-morozova/backend/issues"
+    "url": "https://github.com/ns-morozova/ahj-diploma-backend/issues"
   },
-  "homepage": "https://github.com/ns-morozova/backend#readme",
+  "homepage": "https://github.com/ns-morozova/ahj-diploma-backend#readme",
   "dependencies": {
     "@koa/cors": "^5.0.0",
     "forever": "^4.0.3",
